@@ -1,6 +1,7 @@
 # Code-Unnati
-Revanth Chakravarthula 
-3rd year-1st Sem
-Cyber security 
+Name:Revanth Chakravarthula 
+Year:3rd year
+Branch:Cyber security
+College:Pallavi engineering college 
 
-In this git hub repositery is for all my assignment done under code unnati program 
+In this git hub repositery is for all my projects and assignment which are done under code unnati program will be available here
